@@ -1,5 +1,5 @@
 ## Personal site of Erik Lentz
-**Learning junkie, sometimes philosopher, Sysadmin**  
+**Sysadmin, sometimes philosopher, learning junkie**  
 *Fayetteville, Arkansas*
 - [LinkedIn](https://www.linkedin.com/in/eriklentz/)
 - [Github](https://github.com/eriklentz)
