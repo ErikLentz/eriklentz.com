@@ -1,6 +1,6 @@
 ## Personal site of Erik Lentz
 **Learning junkie, sometimes philosopher, Sysadmin**  
-*Fayetteville, AR*
+*Fayetteville, Arkansas*
 - [LinkedIn](https://www.linkedin.com/in/eriklentz/)
 - [Github](https://github.com/eriklentz)
 - [Blog](https://thespecter.net/blog)
