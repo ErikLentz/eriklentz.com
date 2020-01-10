@@ -1,4 +1,4 @@
-Learning junkie, sometimes philosopher, Sysadmin
+### Learning junkie, sometimes philosopher, Sysadmin
 
 Fayetteville, AR
 
@@ -19,4 +19,4 @@ Fayetteville, AR
 
 ### Support or Contact
 
-Feel free to send me an email at [im@eriklentz.com](mailto:im@eriklentz.com]
+Feel free to send me an email at [im@eriklentz.com](mailto:im@eriklentz.com)
