@@ -14,6 +14,6 @@
 
 - [Setting up Crouton and Steam on a Chromebook](http://thespecter.net/blog/technology/setting-up-steam-on-a-chromebook-with-crouton-and-linux/)
 
-### Support or Contact
+### Support or Contact 
 
 Feel free to send me an email at [im@eriklentz.com](mailto:im@eriklentz.com)
