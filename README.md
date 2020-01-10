@@ -1,10 +1,10 @@
-## Welcome to GitHub Pages
+## Personal site of Erik Lentz
 
-You can use the [editor on GitHub](https://github.com/ErikLentz/eriklentz.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Sysadmin
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Fayetteville, AR
 
-### Markdown
+### Projects
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
