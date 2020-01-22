@@ -16,4 +16,4 @@
 
 ### Support or Contact 
 
-Feel free to send me an email at im [at] eriklentz.com
+Feel free to send me an email: im [at] eriklentz.com
