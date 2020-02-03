@@ -14,6 +14,10 @@
 
 - [Setting up Crouton and Steam on a Chromebook](http://thespecter.net/blog/technology/setting-up-steam-on-a-chromebook-with-crouton-and-linux/)
 
+## Tools
+
+- [SPF Toolbox](https://dev1.eriklentz.com/spftoolbox/) - Easy to use tool for MX, SPF, WHOIS, and other common DNS lookups
+
 ### Support or Contact 
 
 Feel free to send me an email: im [at] eriklentz.com
