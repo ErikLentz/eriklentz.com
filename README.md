@@ -9,7 +9,7 @@
 
 - [QuickDiskCleanup](https://github.com/ErikLentz/QuickDiskCleanup) - Disk Cleanup take too long? Try this instead
 - [GPCacheDelete](https://github.com/ErikLentz/GPCacheDelete) - Clears the local Group Policy cache
-- [SPFToolbox](https://github.com/ErikLentz/SPFtoolbox) - My fork of an MXToolbox alternative
+- [SPFToolbox](https://github.com/ErikLentz/SPFtoolbox) - Self-hosted alternative to MXToolbox
 
 ## Guides
 
