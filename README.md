@@ -4,6 +4,7 @@
 - [LinkedIn](https://www.linkedin.com/in/eriklentz/)
 - [Github](https://github.com/eriklentz)
 - [Blog](https://thespecter.net/blog)
+- [Solar Production](https://dev1.eriklentz.com/solar/) -- Ask me about installing residential solar panels
 
 ## Projects
 
