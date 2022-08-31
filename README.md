@@ -10,6 +10,7 @@
 
 - [GoogleWorkspace-CreateAlias](https://github.com/ErikLentz/GoogleWorkspace-CreateAlias) - Create aliases in bulk in Google Workspace (G Suite)
 - [GoogleDocs-EnvelopeTemplates](https://github.com/ErikLentz/GoogleDocs-EnvelopeTemplates) - Creates envelope templates for Google Docs
+- [GoogleDrive-ListDriveContents](https://gist.github.com/ErikLentz/a7dd0ddcc812ee01a9efe19ad17c2055) - Inventory of drive files and folders
 - [QuickDiskCleanup](https://github.com/ErikLentz/QuickDiskCleanup) - Disk Cleanup take too long? Try this instead
 - [GPCacheDelete](https://github.com/ErikLentz/GPCacheDelete) - Clears the local Group Policy cache
 - [SPFToolbox](https://github.com/charlesabarnes/SPFtoolbox) - Self-hosted alternative to MXToolbox
