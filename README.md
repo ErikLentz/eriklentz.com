@@ -14,6 +14,8 @@
 - [QuickDiskCleanup](https://github.com/ErikLentz/QuickDiskCleanup) - Disk Cleanup take too long? Try this instead
 - [GPCacheDelete](https://github.com/ErikLentz/GPCacheDelete) - Clears the local Group Policy cache
 - [SPFToolbox](https://github.com/charlesabarnes/SPFtoolbox) - Self-hosted alternative to MXToolbox
+- [Flipper Finds](https://github.com/ErikLentz/Flipper-Finds) - Compilation of Sub-GHz, RFID, NFC, and other finds made with a Flipper Zero
+- [Fix LinkIt](https://github.com/ErikLentz/FixLinkIt) - Quick Fix desktop tool for LinkIt from HID TRISM
 
 ## Guides
 
