@@ -26,8 +26,9 @@
 
 - [SPF Toolbox](https://dev1.eriklentz.com/spftoolbox/) - Easy to use tool for MX, SPF, WHOIS, and other common DNS lookups
 
-### Support or Contact 
+### Contact or Support 
 
+- [Book a Meeting](https://eriklentz.com/cal)
 - [Teamviewer Download](https://download.teamviewer.com/full)
 
 Feel free to send me an email: im [at] eriklentz.com
