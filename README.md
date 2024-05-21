@@ -2,6 +2,7 @@
 **Sysadmin, sometimes philosopher, learning junkie**  
 *Fayetteville, Arkansas*
 - [LinkedIn](https://www.linkedin.com/in/eriklentz/)
+- [GitLab](https://www.gitlab.com/ErikLentz)
 - [Github](https://github.com/eriklentz)
 - [Blog](https://thespecter.net/blog)
 <!-- - [Solar Production](https://dev1.eriklentz.com/solar/) -- Ask me about installing residential solar panels -->
@@ -19,6 +20,7 @@
 
 ## Guides
 
+- [Installing EmuELEC on Kinhank Super Console X Max](https://thespecter.net/blog/technology/installing-emuelec-on-kinhank-super-console-x-max/)
 - [Setting up Crouton and Steam on a Chromebook](http://thespecter.net/blog/technology/setting-up-steam-on-a-chromebook-with-crouton-and-linux/)
 - [Feeding data to ADSB sites from dump1090-fa on a remote host](https://thespecter.net/blog/technology/feeding-data-to-adsb-sites-from-dump1090-fa-on-a-remote-host/)
 
