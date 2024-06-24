@@ -23,6 +23,7 @@
 - [Installing EmuELEC on Kinhank Super Console X Max](https://thespecter.net/blog/technology/installing-emuelec-on-kinhank-super-console-x-max/)
 - [Setting up Crouton and Steam on a Chromebook](http://thespecter.net/blog/technology/setting-up-steam-on-a-chromebook-with-crouton-and-linux/)
 - [Feeding data to ADSB sites from dump1090-fa on a remote host](https://thespecter.net/blog/technology/feeding-data-to-adsb-sites-from-dump1090-fa-on-a-remote-host/)
+- [Installing Ubiquiti WiFiman Desktop on Fedora Linux](https://thespecter.net/blog/technology/ubiquiti-wifiman-desktop-on-fedora-linux/)
 
 ## Tools
 
